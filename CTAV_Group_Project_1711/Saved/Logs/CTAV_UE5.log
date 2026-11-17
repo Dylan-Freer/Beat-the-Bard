@@ -1183,3 +1183,714 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.17-14.02.17:254][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1032.312012
 [2026.11.17-14.02.18:255][713]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.11.17-14.02.18:256][713]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1032.978516, Update Interval: 342.362732
+[2026.11.17-14.08.09:656][767]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1384.709473
+[2026.11.17-14.08.10:656][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-14.08.10:656][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1385.376221, Update Interval: 346.482727
+[2026.11.17-14.14.15:392][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1750.444580
+[2026.11.17-14.14.16:391][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-14.14.16:391][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1751.111206, Update Interval: 348.713043
+[2026.11.17-14.20.41:799][ 23]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2136.848389
+[2026.11.17-14.20.42:799][ 26]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-14.20.42:799][ 26]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2137.515137, Update Interval: 358.196350
+[2026.11.17-14.27.25:538][234]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2540.584229
+[2026.11.17-14.27.26:539][237]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-14.27.26:539][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2541.250977, Update Interval: 315.656006
+[2026.11.17-14.33.18:594][293]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2893.631104
+[2026.11.17-14.33.19:594][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-14.33.19:594][296]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2894.298096, Update Interval: 348.623322
+[2026.11.17-14.39.53:676][531]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3288.703613
+[2026.11.17-14.39.53:826][549]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-14.39.53:826][549]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3288.845703, Update Interval: 308.884552
+[2026.11.17-14.40.16:586][273]LogPSOHitching: Encountered 150 PSO creation hitches so far (42 graphics, 108 compute). 0 of them were precached.
+[2026.11.17-14.42.10:634][779]LogShaderCompilers: Display: ================================================
+[2026.11.17-14.42.10:634][779]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.17-14.42.10:634][779]LogShaderCompilers: Display: Total job queries 295, among them cache hits 17 (5.76%), DDC hits 212 (71.86%), Duplicates 65 (22.03%)
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Tracking 213 distinct input hashes that result in 122 distinct outputs (57.28%)
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: RAM used: 1.06 MiB of 3.20 GiB budget. Usage: 0.03%
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Shaders Compiled: 1
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Job execution time: average 1.91 s, max 1.91 s
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Job life time (pending + execution): average 1.93 s, max 1.93
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Shader code size: total 6.41 KiB, numShaders 1, average 6.41 KiB, min 6.41 KiB, max 6.41 KiB
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.93 s
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Average processing rate: 0.52 jobs/sec
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Total thread time: 0.681 s
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Total thread preprocess time: 4.579 s
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Percentage time preprocessing: 672.70%
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Effective parallelization: 0.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.044091
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: === Material stats ===
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Materials Translated:    143
+[2026.11.17-14.42.10:635][779]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.11.17-14.42.10:636][779]LogShaderCompilers: Display: Material Translation Only: 0.05 s (43%)
+[2026.11.17-14.42.10:636][779]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.11.17-14.42.10:636][779]LogShaderCompilers: Display: Material Cache Hits: 31 (22%)
+[2026.11.17-14.42.10:636][779]LogShaderCompilers: Display: ================================================
+[2026.11.17-14.45.43:248][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3638.272705
+[2026.11.17-14.45.43:389][303]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-14.45.43:389][304]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3638.406738, Update Interval: 353.821838
+[2026.11.17-14.46.57:928][246]LogDerivedDataCache: C:/Users/dfreer300/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.17-14.52.10:282][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4025.310059
+[2026.11.17-14.52.10:416][730]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-14.52.10:416][730]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4025.434814, Update Interval: 336.314575
+[2026.11.17-14.58.45:784][160]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4420.538574
+[2026.11.17-14.58.45:915][176]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-14.58.45:915][176]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4420.664062, Update Interval: 355.775635
+[2026.11.17-15.05.41:299][  7]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4835.948730
+[2026.11.17-15.05.41:441][ 24]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-15.05.41:441][ 24]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4836.082031, Update Interval: 332.676178
+[2026.11.17-15.11.57:886][ 47]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5212.494629
+[2026.11.17-15.11.58:886][ 50]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-15.11.58:886][ 50]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5213.161621, Update Interval: 338.775604
+[2026.11.17-15.18.30:977][226]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5605.599121
+[2026.11.17-15.18.31:977][229]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-15.18.31:977][229]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5606.265625, Update Interval: 321.892761
+[2026.11.17-15.24.39:711][332]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5974.357910
+[2026.11.17-15.24.40:711][335]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-15.24.40:711][335]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5975.024414, Update Interval: 325.758240
+[2026.11.17-15.31.02:783][481]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6357.439453
+[2026.11.17-15.31.03:784][484]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-15.31.03:784][484]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6358.106934, Update Interval: 339.092377
+[2026.11.17-15.37.31:536][647]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6746.199219
+[2026.11.17-15.37.32:537][650]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-15.37.32:537][650]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6746.867188, Update Interval: 351.468872
+[2026.11.17-15.39.14:388][356]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2026.11.17-15.39.14:388][356]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.TSR.Resurrection:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2026.11.17-15.39.14:388][356]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.AOQuality:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2026.11.17-15.39.14:388][356]LogConfig: Set CVar [[r.SkylightIntensityMultiplier:0.8]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:0]]
+[2026.11.17-15.39.14:389][356]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2026.11.17-15.39.14:389][356]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2026.11.17-15.39.14:389][356]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2026.11.17-15.39.14:389][356]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2026.11.17-15.39.14:390][356]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.DetailMode:0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.HeterogeneousVolumes:0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2026.11.17-15.39.14:390][356]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2026.11.17-15.39.14:390][356]LogConfig: Applying CVar settings from Section [LandscapeQuality@0] File [Scalability]
+[2026.11.17-15.39.14:431][356]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.11.17-15.39.14:445][357]LogPSOHitching: Encountered 200 PSO creation hitches so far (62 graphics, 138 compute). 0 of them were precached.
+[2026.11.17-15.39.14:474][358]LogContentStreaming: Texture pool size now 400 MB
+[2026.11.17-15.39.14:474][358]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="400"
+[2026.11.17-15.44.10:580][775]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7145.225098
+[2026.11.17-15.44.10:736][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-15.44.10:736][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7145.371094, Update Interval: 324.156006
+[2026.11.17-15.46.57:944][578]LogDerivedDataCache: C:/Users/dfreer300/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.17-15.50.13:823][165]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7508.440918
+[2026.11.17-15.50.14:823][168]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-15.50.14:823][168]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7509.107422, Update Interval: 359.348114
+[2026.11.17-15.56.56:888][374]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7911.503906
+[2026.11.17-15.56.57:888][377]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-15.56.57:888][377]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7912.170410, Update Interval: 348.659943
+[2026.11.17-16.03.30:632][555]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8305.234375
+[2026.11.17-16.03.31:633][558]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-16.03.31:633][558]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8305.900391, Update Interval: 338.997162
+[2026.11.17-16.09.44:043][675]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8678.558594
+[2026.11.17-16.09.45:044][678]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-16.09.45:044][678]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8679.225586, Update Interval: 308.078857
+[2026.11.17-16.15.47:787][766]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9042.237305
+[2026.11.17-16.15.48:787][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-16.15.48:787][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9042.903320, Update Interval: 331.116058
+[2026.11.17-16.22.16:519][932]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9430.873047
+[2026.11.17-16.22.17:520][935]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-16.22.17:520][935]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9431.539062, Update Interval: 341.165192
+[2026.11.17-16.28.44:269][ 95]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9818.531250
+[2026.11.17-16.28.45:270][ 98]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-16.28.45:270][ 98]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9819.197266, Update Interval: 316.756500
+[2026.11.17-16.34.54:312][437]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10188.486328
+[2026.11.17-16.34.55:312][440]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-16.34.55:312][440]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10189.153320, Update Interval: 328.316284
+[2026.11.17-16.41.21:713][599]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10575.718750
+[2026.11.17-16.41.22:712][602]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-16.41.22:712][602]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10576.384766, Update Interval: 337.806946
+[2026.11.17-16.46.57:761][699]LogPSOHitching: Encountered 250 PSO creation hitches so far (85 graphics, 165 compute). 0 of them were precached.
+[2026.11.17-16.46.57:957][701]LogDerivedDataCache: C:/Users/dfreer300/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.17-16.47.05:858][144]LogSlate: Took 0.001117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.11.17-16.47.05:978][152]LogStreaming: Display: FlushAsyncLoading(332): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.17-16.47.21:808][952]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.11.17-16.47.21:817][952]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.11.17-16.47.21:825][952]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.11.17-16.47.21:829][952]LogAutomationController: Ignoring very large delta of 8.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.11.17-16.47.21:842][953]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.11.17-16.47.31:515][ 90]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WDP_StartMenu
+[2026.11.17-16.47.31:523][ 90]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.11.17-16.47.33:855][299]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WDP_StartMenu.WDP_StartMenu
+[2026.11.17-16.47.33:855][299]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.11.17-16.47.33:864][299]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.11.17-16.47.33:875][299]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.11.17-16.47.34:059][299]LogStreaming: Display: FlushAsyncLoading(333): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.17-16.47.35:749][299]LogSlate: Took 0.000979 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.11.17-16.47.35:766][299]LogSlate: Took 0.000972 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.11.17-16.47.48:937][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10962.792969
+[2026.11.17-16.47.49:086][288]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-16.47.49:086][288]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10962.931641, Update Interval: 330.879852
+[2026.11.17-16.49.04:872][222]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.17-16.49.10:663][591]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.17-16.49.32:366][ 33]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.17-16.49.49:522][160]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.17-16.51.39:258][148]LogEditorTransaction: Undo Edit Vertical Alignment
+[2026.11.17-16.51.39:896][160]Cmd: TRANSACTION UNDO
+[2026.11.17-16.51.39:896][160]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2026.11.17-16.51.42:575][334]Cmd: TRANSACTION UNDO
+[2026.11.17-16.51.42:575][334]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.11.17-16.54.13:915][834]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11347.596680
+[2026.11.17-16.54.14:082][842]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-16.54.14:082][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11347.743164, Update Interval: 325.549500
+[2026.11.17-16.54.20:709][210]LogSlate: Took 0.004953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.11.17-16.54.35:440][ 57]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.11.17-16.54.36:156][ 75]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.11.17-16.54.37:275][137]LogEditorTransaction: Undo Paste clipboard contents
+[2026.11.17-16.56.18:979][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.11.17-16.56.18:981][652]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/2DdungeonMap' took 0.106
+[2026.11.17-16.56.18:981][652]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_StartMenu] ([2] browsable assets)...
+[2026.11.17-16.56.18:985][652]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_StartMenu.WDP_StartMenu]
+[2026.11.17-16.56.18:985][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_StartMenu]
+[2026.11.17-16.56.18:991][652]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WDP_StartMenu_Auto1
+[2026.11.17-16.56.18:991][652]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_StartMenu_Auto11665135042B40B6354E36FBF1011D3AB.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/Autosaves/Game/WDP_StartMenu_Auto1.uasset'
+[2026.11.17-16.56.18:993][652]LogFileHelpers: Auto-saving content packages took 0.012
+[2026.11.17-16.57.03:148][521]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.17-16.59.01:151][148]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.17-17.00.27:719][149]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11721.293945
+[2026.11.17-17.00.27:904][161]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-17.00.27:904][161]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11721.461914, Update Interval: 323.191010
+[2026.11.17-17.00.46:441][366]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.17-17.01.02:743][316]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.17-17.01.49:379][219]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.17-17.01.56:355][639]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.17-17.04.35:083][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.11.17-17.04.36:043][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-17.04.36:106][372]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_StartMenu] ([2] browsable assets)...
+[2026.11.17-17.04.36:110][372]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_StartMenu.WDP_StartMenu]
+[2026.11.17-17.04.36:110][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_StartMenu]
+[2026.11.17-17.04.36:110][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WDP_StartMenu" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_StartMenu.uasset" SILENT=true
+[2026.11.17-17.04.36:118][372]LogSavePackage: Moving output files for package: /Game/WDP_StartMenu
+[2026.11.17-17.04.36:118][372]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_StartMenu72E61DFC4C899DE50EE00F8A7FFF8682.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_StartMenu.uasset'
+[2026.11.17-17.04.36:132][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.505 ms
+[2026.11.17-17.04.36:190][372]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-17.04.36:190][372]LogContentValidation: Enabled validators:
+[2026.11.17-17.04.36:190][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-17.04.36:190][372]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-17.04.36:190][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-17.04.36:190][372]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-17.04.36:190][372]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-17.04.36:190][372]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-17.04.36:192][372]AssetCheck: /Game/WDP_StartMenu Validating asset
+[2026.11.17-17.04.36:221][372]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.17-17.05.47:823][365]LogContentBrowser: Deferred new asset file creation: WDP_StartMenu1
+[2026.11.17-17.05.47:836][365]LogContentBrowser: Creating deferred item: WDP_StartMenu1
+[2026.11.17-17.05.47:856][366]LogContentBrowser: Renaming the item being created (Deferred Item: WDP_StartMenu1).
+[2026.11.17-17.05.56:253][624]LogContentBrowser: Attempting asset rename: WDP_StartMenu1 -> WDP_StartMenu1
+[2026.11.17-17.05.56:313][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.11.17-17.05.56:326][624]LogContentBrowser: End creating deferred item WDP_StartMenu1
+[2026.11.17-17.06.05:434][365]LogContentBrowser: Attempting asset rename: WDP_StartMenu1 -> WDP_Servers
+[2026.11.17-17.06.05:523][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-17.06.05:523][365]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_Servers] ([2] browsable assets)...
+[2026.11.17-17.06.05:526][365]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_Servers.WDP_Servers]
+[2026.11.17-17.06.05:526][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_Servers]
+[2026.11.17-17.06.05:526][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WDP_Servers" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_Servers.uasset" SILENT=true
+[2026.11.17-17.06.05:535][365]LogSavePackage: Moving output files for package: /Game/WDP_Servers
+[2026.11.17-17.06.05:535][365]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_Servers86ACBD0C42CCD636D437D8AB73FDDDFE.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_Servers.uasset'
+[2026.11.17-17.06.05:541][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 18.706 ms (total: 108.211 ms)
+[2026.11.17-17.06.05:584][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.11.17-17.06.05:613][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.11.17-17.06.05:641][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.11.17-17.06.05:689][365]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-17.06.05:689][365]LogContentValidation: Enabled validators:
+[2026.11.17-17.06.05:689][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-17.06.05:689][365]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-17.06.05:689][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-17.06.05:689][365]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-17.06.05:689][365]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-17.06.05:689][365]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-17.06.05:690][365]AssetCheck: /Game/WDP_Servers Validating asset
+[2026.11.17-17.06.05:742][365]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.17-17.06.27:903][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.11.17-17.06.28:723][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-17.06.28:772][210]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_StartMenu] ([2] browsable assets)...
+[2026.11.17-17.06.28:775][210]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_StartMenu.WDP_StartMenu]
+[2026.11.17-17.06.28:775][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_StartMenu]
+[2026.11.17-17.06.28:775][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WDP_StartMenu" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_StartMenu.uasset" SILENT=true
+[2026.11.17-17.06.28:783][210]LogSavePackage: Moving output files for package: /Game/WDP_StartMenu
+[2026.11.17-17.06.28:784][210]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_StartMenuC2003DFB40204276C68281861FD00F7A.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_StartMenu.uasset'
+[2026.11.17-17.06.28:795][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.684 ms (total: 180.895 ms)
+[2026.11.17-17.06.28:840][210]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-17.06.28:840][210]LogContentValidation: Enabled validators:
+[2026.11.17-17.06.28:840][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-17.06.28:840][210]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-17.06.28:840][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-17.06.28:840][210]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-17.06.28:840][210]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-17.06.28:840][210]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-17.06.28:841][210]AssetCheck: /Game/WDP_StartMenu Validating asset
+[2026.11.17-17.06.37:090][904]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WDP_Servers.WDP_Servers
+[2026.11.17-17.06.37:090][904]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.11.17-17.06.37:101][904]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.11.17-17.06.45:063][180]LogSlate: Window 'Delete widgets' being destroyed
+[2026.11.17-17.06.45:087][180]LogAutomationController: Ignoring very large delta of 3.23 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.11.17-17.06.45:096][181]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12098.512695
+[2026.11.17-17.06.45:253][196]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-17.06.45:253][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12098.658203, Update Interval: 344.188354
+[2026.11.17-17.08.12:595][624]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.17-17.08.12:597][624]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.17-17.08.12:599][624]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.17-17.08.12:713][625]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.17-17.08.12:723][625]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.17-17.08.12:840][626]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.17-17.08.12:953][627]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.17-17.08.12:962][627]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.17-17.08.13:078][628]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.17-17.08.13:082][628]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.17-17.08.13:316][630]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.17-17.08.13:425][631]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.17-17.09.21:483][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.11.17-17.09.21:485][546]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/2DdungeonMap' took 0.046
+[2026.11.17-17.09.21:486][546]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_Servers] ([2] browsable assets)...
+[2026.11.17-17.09.21:489][546]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_Servers.WDP_Servers]
+[2026.11.17-17.09.21:489][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_Servers]
+[2026.11.17-17.09.21:498][546]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WDP_Servers_Auto2
+[2026.11.17-17.09.21:498][546]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_Servers_Auto207F1EA50413C03BA2605C3A43AC2AFEE.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/Autosaves/Game/WDP_Servers_Auto2.uasset'
+[2026.11.17-17.09.21:499][546]LogFileHelpers: Auto-saving content packages took 0.014
+[2026.11.17-17.12.35:157][497]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.11.17-17.13.11:840][780]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12485.086914
+[2026.11.17-17.13.11:994][789]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-17.13.11:994][789]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12485.223633, Update Interval: 359.300507
+[2026.11.17-17.14.19:173][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.11.17-17.14.19:796][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-17.14.19:839][789]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_StartMenu] ([2] browsable assets)...
+[2026.11.17-17.14.19:843][789]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_StartMenu.WDP_StartMenu]
+[2026.11.17-17.14.19:843][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_StartMenu]
+[2026.11.17-17.14.19:843][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WDP_StartMenu" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_StartMenu.uasset" SILENT=true
+[2026.11.17-17.14.19:852][789]LogSavePackage: Moving output files for package: /Game/WDP_StartMenu
+[2026.11.17-17.14.19:853][789]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_StartMenuD99164F745F49C7C01BCC28EF551C50B.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_StartMenu.uasset'
+[2026.11.17-17.14.19:864][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.347 ms (total: 248.243 ms)
+[2026.11.17-17.14.19:923][789]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-17.14.19:923][789]LogContentValidation: Enabled validators:
+[2026.11.17-17.14.19:923][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-17.14.19:923][789]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-17.14.19:923][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-17.14.19:923][789]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-17.14.19:923][789]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-17.14.19:923][789]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-17.14.19:924][789]AssetCheck: /Game/WDP_StartMenu Validating asset
+[2026.11.17-17.19.59:177][106]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12892.255859
+[2026.11.17-17.20.00:177][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-17.20.00:177][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12892.922852, Update Interval: 306.198303
+[2026.11.17-17.20.56:954][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.11.17-17.20.56:956][371]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/2DdungeonMap' took 0.035
+[2026.11.17-17.20.56:957][371]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_Servers] ([2] browsable assets)...
+[2026.11.17-17.20.56:959][371]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_Servers.WDP_Servers]
+[2026.11.17-17.20.56:959][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_Servers]
+[2026.11.17-17.20.56:968][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WDP_Servers_Auto3
+[2026.11.17-17.20.56:968][371]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_Servers_Auto31B0963A04F52F3EF66E737982929E2D1.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/Autosaves/Game/WDP_Servers_Auto3.uasset'
+[2026.11.17-17.20.56:970][371]LogFileHelpers: Auto-saving content packages took 0.013
+[2026.11.17-17.23.13:752][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.11.17-17.23.14:441][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-17.23.14:506][789]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_Servers] ([2] browsable assets)...
+[2026.11.17-17.23.14:510][789]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_Servers.WDP_Servers]
+[2026.11.17-17.23.14:510][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_Servers]
+[2026.11.17-17.23.14:510][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WDP_Servers" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_Servers.uasset" SILENT=true
+[2026.11.17-17.23.14:520][789]LogSavePackage: Moving output files for package: /Game/WDP_Servers
+[2026.11.17-17.23.14:521][789]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_Servers59A44DAD4A1DA96301F8FE91F8129EAF.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_Servers.uasset'
+[2026.11.17-17.23.14:535][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.015 ms (total: 341.258 ms)
+[2026.11.17-17.23.14:571][789]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-17.23.14:572][789]LogContentValidation: Enabled validators:
+[2026.11.17-17.23.14:572][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-17.23.14:572][789]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-17.23.14:572][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-17.23.14:572][789]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-17.23.14:572][789]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-17.23.14:572][789]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-17.23.14:572][789]AssetCheck: /Game/WDP_Servers Validating asset
+[2026.11.17-17.23.19:320][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.11.17-17.23.20:052][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-17.23.20:103][292]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_StartMenu] ([2] browsable assets)...
+[2026.11.17-17.23.20:106][292]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_StartMenu.WDP_StartMenu]
+[2026.11.17-17.23.20:106][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_StartMenu]
+[2026.11.17-17.23.20:106][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WDP_StartMenu" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_StartMenu.uasset" SILENT=true
+[2026.11.17-17.23.20:115][292]LogSavePackage: Moving output files for package: /Game/WDP_StartMenu
+[2026.11.17-17.23.20:116][292]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_StartMenuE82EE784406053A49ACFF2A5AB62E838.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_StartMenu.uasset'
+[2026.11.17-17.23.20:126][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.813 ms (total: 416.072 ms)
+[2026.11.17-17.23.20:188][292]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-17.23.20:188][292]LogContentValidation: Enabled validators:
+[2026.11.17-17.23.20:188][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-17.23.20:188][292]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-17.23.20:188][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-17.23.20:188][292]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-17.23.20:188][292]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-17.23.20:188][292]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-17.23.20:189][292]AssetCheck: /Game/WDP_StartMenu Validating asset
+[2026.11.17-17.23.26:953][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.11.17-17.23.28:393][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.11.17-17.23.35:830][100]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.11.17-17.23.35:839][100]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.11.17-17.23.35:849][100]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.11.17-17.23.35:869][101]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.11.17-17.23.52:633][590]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_ServerPanel
+[2026.11.17-17.23.52:641][590]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.11.17-17.23.54:153][700]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WBP_ServerPanel.WBP_ServerPanel
+[2026.11.17-17.23.54:154][700]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.11.17-17.23.54:166][700]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.11.17-17.24.12:004][836]LogPSOHitching: Encountered 300 PSO creation hitches so far (106 graphics, 194 compute). 0 of them were precached.
+[2026.11.17-17.25.41:910][991]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13234.803711
+[2026.11.17-17.25.42:910][994]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-17.25.42:910][994]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13235.470703, Update Interval: 306.183655
+[2026.11.17-17.31.17:177][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.11.17-17.31.18:489][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-17.31.18:538][ 85]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_ServerPanel] ([2] browsable assets)...
+[2026.11.17-17.31.18:541][ 85]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_ServerPanel.WBP_ServerPanel]
+[2026.11.17-17.31.18:541][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_ServerPanel]
+[2026.11.17-17.31.18:541][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_ServerPanel" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WBP_ServerPanel.uasset" SILENT=true
+[2026.11.17-17.31.18:549][ 85]LogSavePackage: Moving output files for package: /Game/WBP_ServerPanel
+[2026.11.17-17.31.18:549][ 85]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WBP_ServerPanelEF663EE24B4094A0465BDAA97C788A94.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WBP_ServerPanel.uasset'
+[2026.11.17-17.31.18:561][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.791 ms (total: 488.863 ms)
+[2026.11.17-17.31.18:621][ 85]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-17.31.18:621][ 85]LogContentValidation: Enabled validators:
+[2026.11.17-17.31.18:621][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-17.31.18:621][ 85]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-17.31.18:621][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-17.31.18:621][ 85]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-17.31.18:621][ 85]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-17.31.18:621][ 85]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-17.31.18:621][ 85]AssetCheck: /Game/WBP_ServerPanel Validating asset
+[2026.11.17-17.31.18:647][ 85]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.17-17.31.23:485][365]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13576.376953
+[2026.11.17-17.31.24:485][368]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-17.31.24:486][368]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13577.043945, Update Interval: 346.411316
+[2026.11.17-17.33.04:485][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.11.17-17.33.04:486][ 11]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/2DdungeonMap' took 0.048
+[2026.11.17-17.33.04:487][ 11]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_Servers] ([2] browsable assets)...
+[2026.11.17-17.33.04:490][ 11]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_Servers.WDP_Servers]
+[2026.11.17-17.33.04:490][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_Servers]
+[2026.11.17-17.33.04:498][ 11]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WDP_Servers_Auto4
+[2026.11.17-17.33.04:499][ 11]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_Servers_Auto47B182ADB48DAFAF8981462AA00983C7F.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/Autosaves/Game/WDP_Servers_Auto4.uasset'
+[2026.11.17-17.33.04:500][ 11]LogFileHelpers: Auto-saving content packages took 0.013
+[2026.11.17-17.33.48:118][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.11.17-17.33.49:082][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-17.33.49:139][347]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_Servers] ([2] browsable assets)...
+[2026.11.17-17.33.49:142][347]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_Servers.WDP_Servers]
+[2026.11.17-17.33.49:142][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_Servers]
+[2026.11.17-17.33.49:142][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WDP_Servers" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_Servers.uasset" SILENT=true
+[2026.11.17-17.33.49:149][347]LogSavePackage: Moving output files for package: /Game/WDP_Servers
+[2026.11.17-17.33.49:151][347]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_Servers9A24E75F4393A2A4240032A54A483D22.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_Servers.uasset'
+[2026.11.17-17.33.49:161][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.468 ms (total: 569.331 ms)
+[2026.11.17-17.33.49:222][347]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-17.33.49:222][347]LogContentValidation: Enabled validators:
+[2026.11.17-17.33.49:222][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-17.33.49:222][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-17.33.49:222][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-17.33.49:222][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-17.33.49:222][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-17.33.49:222][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-17.33.49:223][347]AssetCheck: /Game/WDP_Servers Validating asset
+[2026.11.17-17.35.43:153][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.11.17-17.35.43:656][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-17.35.43:703][124]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_ServerPanel] ([2] browsable assets)...
+[2026.11.17-17.35.43:707][124]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_ServerPanel.WBP_ServerPanel]
+[2026.11.17-17.35.43:707][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_ServerPanel]
+[2026.11.17-17.35.43:707][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_ServerPanel" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WBP_ServerPanel.uasset" SILENT=true
+[2026.11.17-17.35.43:716][124]LogSavePackage: Moving output files for package: /Game/WBP_ServerPanel
+[2026.11.17-17.35.43:717][124]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WBP_ServerPanel7EAD60494FD4B684729787BA48F3C422.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WBP_ServerPanel.uasset'
+[2026.11.17-17.35.43:728][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.760 ms (total: 641.092 ms)
+[2026.11.17-17.35.43:788][124]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-17.35.43:788][124]LogContentValidation: Enabled validators:
+[2026.11.17-17.35.43:788][124]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-17.35.43:788][124]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-17.35.43:788][124]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-17.35.43:788][124]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-17.35.43:788][124]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-17.35.43:788][124]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-17.35.43:789][124]AssetCheck: /Game/WBP_ServerPanel Validating asset
+[2026.11.17-17.37.49:675][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.11.17-17.37.50:479][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-17.37.50:538][134]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_Servers] ([2] browsable assets)...
+[2026.11.17-17.37.50:540][134]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_Servers.WDP_Servers]
+[2026.11.17-17.37.50:540][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_Servers]
+[2026.11.17-17.37.50:540][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WDP_Servers" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_Servers.uasset" SILENT=true
+[2026.11.17-17.37.50:549][134]LogSavePackage: Moving output files for package: /Game/WDP_Servers
+[2026.11.17-17.37.50:551][134]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_Servers55EEBC46484E2BF886841CBCE0F13D6E.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_Servers.uasset'
+[2026.11.17-17.37.50:562][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.023 ms (total: 723.115 ms)
+[2026.11.17-17.37.50:621][134]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-17.37.50:621][134]LogContentValidation: Enabled validators:
+[2026.11.17-17.37.50:621][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-17.37.50:621][134]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-17.37.50:621][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-17.37.50:621][134]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-17.37.50:621][134]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-17.37.50:621][134]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-17.37.50:621][134]AssetCheck: /Game/WDP_Servers Validating asset
+[2026.11.17-17.38.09:543][312]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13982.374023
+[2026.11.17-17.38.10:543][315]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-17.38.10:543][315]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13983.040039, Update Interval: 345.385895
+[2026.11.17-17.42.30:577][292]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18437736659701441014
+[2026.11.17-17.42.30:578][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.17-17.42.30:585][293]LogSlate: Took 0.000504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.11.17-17.42.30:592][293]LogSlate: Took 0.000486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.11.17-17.42.30:596][293]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.11.17-17.42.30:598][293]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.11.17-17.42.30:608][293]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.11.17-17.43.04:985][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.11.17-17.43.04:987][853]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/2DdungeonMap' took 0.048
+[2026.11.17-17.43.04:988][853]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_Servers] ([2] browsable assets)...
+[2026.11.17-17.43.04:992][853]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_Servers.WDP_Servers]
+[2026.11.17-17.43.04:992][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_Servers]
+[2026.11.17-17.43.05:001][853]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WDP_Servers_Auto5
+[2026.11.17-17.43.05:001][853]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_Servers_Auto5815756AE4305A131BA1D9DA84E768041.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/Autosaves/Game/WDP_Servers_Auto5.uasset'
+[2026.11.17-17.43.05:002][853]LogFileHelpers: Auto-saving content packages took 0.016
+[2026.11.17-17.43.47:140][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.11.17-17.43.47:727][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-17.43.47:787][875]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_Servers] ([2] browsable assets)...
+[2026.11.17-17.43.47:790][875]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_Servers.WDP_Servers]
+[2026.11.17-17.43.47:790][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_Servers]
+[2026.11.17-17.43.47:790][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WDP_Servers" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_Servers.uasset" SILENT=true
+[2026.11.17-17.43.47:798][875]LogSavePackage: Moving output files for package: /Game/WDP_Servers
+[2026.11.17-17.43.47:799][875]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_ServersA80050B54482E0C0E4096B8E1A26EC13.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_Servers.uasset'
+[2026.11.17-17.43.47:815][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.191 ms (total: 810.306 ms)
+[2026.11.17-17.43.47:871][875]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-17.43.47:871][875]LogContentValidation: Enabled validators:
+[2026.11.17-17.43.47:871][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-17.43.47:871][875]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-17.43.47:871][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-17.43.47:871][875]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-17.43.47:871][875]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-17.43.47:871][875]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-17.43.47:872][875]AssetCheck: /Game/WDP_Servers Validating asset
+[2026.11.17-17.44.31:964][309]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14364.739258
+[2026.11.17-17.44.32:964][312]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-17.44.32:964][312]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14365.406250, Update Interval: 311.649536
+[2026.11.17-17.45.30:231][374]LogSlate: Took 0.000468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.11.17-17.46.57:968][780]LogDerivedDataCache: C:/Users/dfreer300/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.17-17.47.31:475][934]LogSlate: Took 0.001007 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.11.17-17.50.35:406][ 38]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14728.168945
+[2026.11.17-17.50.36:407][ 41]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-17.50.36:407][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14728.835938, Update Interval: 354.909515
+[2026.11.17-17.53.48:595][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.11.17-17.53.49:338][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-17.53.49:387][615]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_Servers] ([2] browsable assets)...
+[2026.11.17-17.53.49:389][615]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_Servers.WDP_Servers]
+[2026.11.17-17.53.49:389][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_Servers]
+[2026.11.17-17.53.49:389][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WDP_Servers" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_Servers.uasset" SILENT=true
+[2026.11.17-17.53.49:400][615]LogSavePackage: Moving output files for package: /Game/WDP_Servers
+[2026.11.17-17.53.49:402][615]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_Servers146F942049A53CD58C6730B45E79BEC7.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_Servers.uasset'
+[2026.11.17-17.53.49:414][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.302 ms (total: 886.608 ms)
+[2026.11.17-17.53.49:470][615]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-17.53.49:470][615]LogContentValidation: Enabled validators:
+[2026.11.17-17.53.49:470][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-17.53.49:470][615]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-17.53.49:470][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-17.53.49:470][615]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-17.53.49:470][615]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-17.53.49:470][615]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-17.53.49:470][615]AssetCheck: /Game/WDP_Servers Validating asset
+[2026.11.17-17.56.54:713][209]LogEditorTransaction: Undo Move Node
+[2026.11.17-17.57.25:427][566]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15138.346680
+[2026.11.17-17.57.25:582][579]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-17.57.25:582][580]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15138.489258, Update Interval: 332.868439
+[2026.11.17-17.58.54:472][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.11.17-17.58.54:474][430]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/2DdungeonMap' took 0.035
+[2026.11.17-17.58.54:474][430]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_Servers] ([2] browsable assets)...
+[2026.11.17-17.58.54:477][430]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_Servers.WDP_Servers]
+[2026.11.17-17.58.54:477][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_Servers]
+[2026.11.17-17.58.54:491][430]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WDP_Servers_Auto6
+[2026.11.17-17.58.54:491][430]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_Servers_Auto6BA2B82AD49A7E0497841D39F1340F905.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/Autosaves/Game/WDP_Servers_Auto6.uasset'
+[2026.11.17-17.58.54:492][430]LogFileHelpers: Auto-saving content packages took 0.018
+[2026.11.17-17.59.14:805][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.11.17-17.59.15:755][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-17.59.15:787][101]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_Servers] ([2] browsable assets)...
+[2026.11.17-17.59.15:789][101]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_Servers.WDP_Servers]
+[2026.11.17-17.59.15:789][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_Servers]
+[2026.11.17-17.59.15:789][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WDP_Servers" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_Servers.uasset" SILENT=true
+[2026.11.17-17.59.15:804][101]LogSavePackage: Moving output files for package: /Game/WDP_Servers
+[2026.11.17-17.59.15:805][101]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WDP_ServersB48954BF45F17547CA6D509EB34B6F3C.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_Servers.uasset'
+[2026.11.17-17.59.15:816][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.035 ms (total: 948.644 ms)
+[2026.11.17-17.59.15:870][101]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-17.59.15:870][101]LogContentValidation: Enabled validators:
+[2026.11.17-17.59.15:870][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-17.59.15:870][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-17.59.15:870][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-17.59.15:870][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-17.59.15:870][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-17.59.15:870][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-17.59.15:871][101]AssetCheck: /Game/WDP_Servers Validating asset
+[2026.11.17-18.01.02:532][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.11.17-18.01.03:060][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-18.01.03:122][950]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_ServerPanel] ([2] browsable assets)...
+[2026.11.17-18.01.03:125][950]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_ServerPanel.WBP_ServerPanel]
+[2026.11.17-18.01.03:125][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_ServerPanel]
+[2026.11.17-18.01.03:125][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_ServerPanel" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WBP_ServerPanel.uasset" SILENT=true
+[2026.11.17-18.01.03:134][950]LogSavePackage: Moving output files for package: /Game/WBP_ServerPanel
+[2026.11.17-18.01.03:136][950]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WBP_ServerPanel0D9836AC4323E32433EA33A9F930E8F4.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WBP_ServerPanel.uasset'
+[2026.11.17-18.01.03:148][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.468 ms (total: 1.03 sec)
+[2026.11.17-18.01.03:188][950]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-18.01.03:188][950]LogContentValidation: Enabled validators:
+[2026.11.17-18.01.03:188][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-18.01.03:188][950]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-18.01.03:188][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-18.01.03:188][950]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-18.01.03:188][950]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-18.01.03:188][950]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-18.01.03:189][950]AssetCheck: /Game/WBP_ServerPanel Validating asset
+[2026.11.17-18.01.06:238][125]LogSlate: Took 0.001282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.11.17-18.01.12:453][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.11.17-18.01.13:182][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-18.01.13:237][458]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_ServerPanel] ([2] browsable assets)...
+[2026.11.17-18.01.13:240][458]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_ServerPanel.WBP_ServerPanel]
+[2026.11.17-18.01.13:240][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_ServerPanel]
+[2026.11.17-18.01.13:240][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_ServerPanel" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WBP_ServerPanel.uasset" SILENT=true
+[2026.11.17-18.01.13:248][458]LogSavePackage: Moving output files for package: /Game/WBP_ServerPanel
+[2026.11.17-18.01.13:250][458]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WBP_ServerPanelEF47594043CFE5602FF28CB578AED572.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WBP_ServerPanel.uasset'
+[2026.11.17-18.01.13:262][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.428 ms (total: 1.11 sec)
+[2026.11.17-18.01.13:321][458]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-18.01.13:321][458]LogContentValidation: Enabled validators:
+[2026.11.17-18.01.13:321][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-18.01.13:321][458]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-18.01.13:321][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-18.01.13:321][458]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-18.01.13:321][458]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-18.01.13:321][458]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-18.01.13:321][458]AssetCheck: /Game/WBP_ServerPanel Validating asset
+[2026.11.17-18.01.44:906][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.11.17-18.01.45:651][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-18.01.45:702][499]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_ServerPanel] ([2] browsable assets)...
+[2026.11.17-18.01.45:704][499]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_ServerPanel.WBP_ServerPanel]
+[2026.11.17-18.01.45:704][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_ServerPanel]
+[2026.11.17-18.01.45:704][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_ServerPanel" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WBP_ServerPanel.uasset" SILENT=true
+[2026.11.17-18.01.45:714][499]LogSavePackage: Moving output files for package: /Game/WBP_ServerPanel
+[2026.11.17-18.01.45:715][499]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WBP_ServerPanel9AA0EDF347183F4F257E279C7E1A1545.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WBP_ServerPanel.uasset'
+[2026.11.17-18.01.45:726][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.267 ms (total: 1.19 sec)
+[2026.11.17-18.01.45:786][499]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-18.01.45:786][499]LogContentValidation: Enabled validators:
+[2026.11.17-18.01.45:786][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-18.01.45:786][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-18.01.45:786][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-18.01.45:786][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-18.01.45:786][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-18.01.45:786][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-18.01.45:786][499]AssetCheck: /Game/WBP_ServerPanel Validating asset
+[2026.11.17-18.03.38:797][619]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15511.415039
+[2026.11.17-18.03.39:797][622]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.17-18.03.39:797][622]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15512.082031, Update Interval: 333.280426
+[2026.11.17-18.07.08:513][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.11.17-18.07.09:531][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.17-18.07.09:587][540]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_ServerPanel] ([2] browsable assets)...
+[2026.11.17-18.07.09:589][540]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_ServerPanel.WBP_ServerPanel]
+[2026.11.17-18.07.09:589][540]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_ServerPanel]
+[2026.11.17-18.07.09:589][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_ServerPanel" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WBP_ServerPanel.uasset" SILENT=true
+[2026.11.17-18.07.09:600][540]LogSavePackage: Moving output files for package: /Game/WBP_ServerPanel
+[2026.11.17-18.07.09:602][540]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Saved/WBP_ServerPanel2F0B3CC944EEB23683997BB2F773C920.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WBP_ServerPanel.uasset'
+[2026.11.17-18.07.09:613][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.534 ms (total: 1.27 sec)
+[2026.11.17-18.07.09:670][540]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.17-18.07.09:670][540]LogContentValidation: Enabled validators:
+[2026.11.17-18.07.09:670][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.17-18.07.09:670][540]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.17-18.07.09:670][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.17-18.07.09:670][540]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.17-18.07.09:670][540]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.17-18.07.09:670][540]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.17-18.07.09:670][540]AssetCheck: /Game/WBP_ServerPanel Validating asset
+[2026.11.17-18.07.11:010][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.11.17-18.07.57:788][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.11.17-18.08.19:859][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms

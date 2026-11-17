@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_StartMenu.uasset",
+				"C:/Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WDP_Servers.uasset",
+				"C:/Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project_1711/Content/WBP_ServerPanel.uasset",
 				"C:/Users/jsheer300/Documents/CTAV_init/Content/Environment/GrassLand/Terrain/Map-Edge-Tilemap.uasset",
 				"C:/Users/jsheer300/Documents/CTAV_init/Content/Environment/GrassLand/Terrain/map-edge-2-tilemap.uasset",
 				"C:/Users/jsheer300/Documents/CTAV_init/Content/Maps/2DdungeonMap.umap",
