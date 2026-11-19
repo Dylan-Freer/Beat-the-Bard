@@ -2744,3 +2744,333 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.19-16.59.46:215][241]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.11.19-16.59.46:215][241]AssetCheck: /Game/Maps/Lvl_StartScreen Validating asset
 [2026.11.19-16.59.49:706][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.11.19-17.02.14:615][647]LogSlate: Took 0.005357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.11.19-17.03.06:223][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.11.19-17.03.06:939][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.19-17.03.06:983][242]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_StartMenu] ([2] browsable assets)...
+[2026.11.19-17.03.06:986][242]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_StartMenu.WDP_StartMenu]
+[2026.11.19-17.03.06:986][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_StartMenu]
+[2026.11.19-17.03.06:986][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WDP_StartMenu" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project/Content/WDP_StartMenu.uasset" SILENT=true
+[2026.11.19-17.03.06:997][242]LogSavePackage: Moving output files for package: /Game/WDP_StartMenu
+[2026.11.19-17.03.06:998][242]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project/Saved/WDP_StartMenu7B3A3F6D4ED6FE6ED80F03BC8F8487AE.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project/Content/WDP_StartMenu.uasset'
+[2026.11.19-17.03.07:006][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.560 ms (total: 1.03 sec)
+[2026.11.19-17.03.07:066][242]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.19-17.03.07:066][242]LogContentValidation: Enabled validators:
+[2026.11.19-17.03.07:066][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.19-17.03.07:066][242]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.19-17.03.07:066][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.19-17.03.07:066][242]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.19-17.03.07:066][242]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.19-17.03.07:067][242]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.19-17.03.07:067][242]AssetCheck: /Game/WDP_StartMenu Validating asset
+[2026.11.19-17.03.09:742][420]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.11.19-17.03.09:752][420]LogUMGEditor: Disabling Slate Post Buffers for multi-window PIE session, currently not supported.
+[2026.11.19-17.03.09:776][420]LogFMOD: Display: Loaded bank lookup
+[2026.11.19-17.03.09:776][420]LogFMOD: Error: Failed to load asset lookup
+[2026.11.19-17.03.09:795][420]LogFMOD: Default sample rate = 48000
+[2026.11.19-17.03.09:795][420]LogFMOD: System sample rate = 44100
+[2026.11.19-17.03.09:795][420]LogFMOD: Matching system sample rate 44100
+[2026.11.19-17.03.09:795][420]LogFMOD: CallbackHandler not set.
+[2026.11.19-17.03.09:815][420]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2026.11.19-17.03.09:854][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.19-17.03.09:854][420]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lvl_StartScreen
+[2026.11.19-17.03.09:856][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001828s)
+[2026.11.19-17.03.09:856][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lvl_StartScreen.Lvl_StartScreen to /Game/Maps/UEDPIE_0_Lvl_StartScreen.Lvl_StartScreen (0.001883s)
+[2026.11.19-17.03.09:885][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.11.19-17.03.09:888][420]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_StartScreen
+[2026.11.19-17.03.09:890][420]LogPlayLevel: PIE: World Init took: (0.001897s)
+[2026.11.19-17.03.09:891][420]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.11.19-17.03.09:891][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.19-17.03.09:891][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.19-17.03.09:891][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.19-17.03.09:891][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.19-17.03.09:891][420]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.19-17.03.09:891][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.19-17.03.09:891][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.19-17.03.09:891][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.19-17.03.09:891][420]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.19-17.03.09:891][420]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.19-17.03.09:891][420]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.19-17.03.09:893][420]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.19-17.03.09:982][420]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2026.11.19-17.03.09:982][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.19-17.03.09:982][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.19-17.03.09:982][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.19-17.03.09:982][420]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.11.19-17.03.09:982][420]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.11.19-17.03.09:985][420]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.11.19-17.03.09:986][420]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.11.19-17.03.09:986][420]LogInit: FAudioDevice initialized with ID 13.
+[2026.11.19-17.03.09:986][420]LogAudio: Display: Audio Device (ID: 13) registered with world 'Lvl_StartScreen'.
+[2026.11.19-17.03.09:986][420]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.11.19-17.03.10:050][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.19-17.03.10:050][420]LogLoad: Game class is 'GMSideScroll_C'
+[2026.11.19-17.03.10:051][420]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lvl_StartScreen.Lvl_StartScreen up for play (max tick rate 0) at 2026.11.19-17.03.10
+[2026.11.19-17.03.10:051][420]LogWorld: Bringing up level for play took: 0.000494
+[2026.11.19-17.03.10:054][420]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.11.19-17.03.10:057][420]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.11.19-17.03.10:057][420]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.11.19-17.03.10:057][420]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.11.19-17.03.10:057][420]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.11.19-17.03.10:057][420]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.11.19-17.03.10:063][420]PIE: Server logged in
+[2026.11.19-17.03.10:067][420]PIE: Play in editor total start time 0.315 seconds.
+[2026.11.19-17.03.10:067][420]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Lvl_StartScreen
+[2026.11.19-17.03.10:069][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001369s)
+[2026.11.19-17.03.10:069][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lvl_StartScreen.Lvl_StartScreen to /Game/Maps/UEDPIE_1_Lvl_StartScreen.Lvl_StartScreen (0.001398s)
+[2026.11.19-17.03.10:100][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.11.19-17.03.10:101][420]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_StartScreen
+[2026.11.19-17.03.10:102][420]LogPlayLevel: PIE: World Init took: (0.001720s)
+[2026.11.19-17.03.10:104][420]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.11.19-17.03.10:104][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.19-17.03.10:104][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.19-17.03.10:104][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.19-17.03.10:104][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.19-17.03.10:104][420]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.19-17.03.10:104][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.19-17.03.10:104][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.19-17.03.10:104][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.19-17.03.10:104][420]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.19-17.03.10:104][420]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.19-17.03.10:104][420]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.19-17.03.10:107][420]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.19-17.03.10:196][420]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2026.11.19-17.03.10:196][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.19-17.03.10:196][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.19-17.03.10:196][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.19-17.03.10:196][420]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.11.19-17.03.10:196][420]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.11.19-17.03.10:200][420]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.11.19-17.03.10:200][420]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.11.19-17.03.10:200][420]LogInit: FAudioDevice initialized with ID 14.
+[2026.11.19-17.03.10:200][420]LogAudio: Display: Audio Device (ID: 14) registered with world 'Lvl_StartScreen'.
+[2026.11.19-17.03.10:200][420]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.11.19-17.03.10:268][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.19-17.03.10:268][420]LogLoad: Game class is 'GMSideScroll_C'
+[2026.11.19-17.03.10:269][420]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Lvl_StartScreen.Lvl_StartScreen up for play (max tick rate 0) at 2026.11.19-17.03.10
+[2026.11.19-17.03.10:269][420]LogWorld: Bringing up level for play took: 0.000487
+[2026.11.19-17.03.10:272][420]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.11.19-17.03.10:274][420]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.11.19-17.03.10:274][420]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.11.19-17.03.10:274][420]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.11.19-17.03.10:274][420]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.11.19-17.03.10:274][420]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.11.19-17.03.10:279][420]PIE: Server logged in
+[2026.11.19-17.03.10:284][420]PIE: Play in editor total start time 0.531 seconds.
+[2026.11.19-17.03.14:461][568]Cmd: quit
+[2026.11.19-17.03.14:462][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.19-17.03.14:565][568]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Lvl_StartScreen
+[2026.11.19-17.03.14:565][568]LogSlate: Window 'CTAV_UE5 Preview [NetMode: Standalone 1]  (64-bit/PC D3D SM6)' being destroyed
+[2026.11.19-17.03.14:569][568]LogWorld: UWorld::CleanupWorld for Lvl_StartScreen, bSessionEnded=true, bCleanupResources=true
+[2026.11.19-17.03.14:569][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.19-17.03.14:570][568]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lvl_StartScreen
+[2026.11.19-17.03.14:571][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.19-17.03.14:571][568]LogSlate: Window 'CTAV_UE5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.11.19-17.03.14:577][568]LogWorld: UWorld::CleanupWorld for Lvl_StartScreen, bSessionEnded=true, bCleanupResources=true
+[2026.11.19-17.03.14:578][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.19-17.03.14:578][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.19-17.03.14:584][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.19-17.03.14:611][568]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.11.19-17.03.14:611][568]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.11.19-17.03.14:614][568]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.11.19-17.03.14:619][568]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.19-17.03.14:619][568]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.11.19-17.03.14:619][568]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.11.19-17.03.14:621][568]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.11.19-17.03.14:630][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.11.19-17.03.14:664][569]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.11.19-17.03.14:666][569]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.11.19-17.03.47:186][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.11.19-17.03.47:985][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.19-17.03.48:017][ 92]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_StartMenu] ([2] browsable assets)...
+[2026.11.19-17.03.48:019][ 92]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_StartMenu.WDP_StartMenu]
+[2026.11.19-17.03.48:019][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_StartMenu]
+[2026.11.19-17.03.48:019][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WDP_StartMenu" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project/Content/WDP_StartMenu.uasset" SILENT=true
+[2026.11.19-17.03.48:028][ 92]LogSavePackage: Moving output files for package: /Game/WDP_StartMenu
+[2026.11.19-17.03.48:030][ 92]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project/Saved/WDP_StartMenu52EAD973409D95B5FAC7EFAE00742CC2.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project/Content/WDP_StartMenu.uasset'
+[2026.11.19-17.03.48:038][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.928 ms (total: 1.08 sec)
+[2026.11.19-17.03.48:099][ 92]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.19-17.03.48:099][ 92]LogContentValidation: Enabled validators:
+[2026.11.19-17.03.48:099][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.19-17.03.48:099][ 92]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.19-17.03.48:099][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.19-17.03.48:099][ 92]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.19-17.03.48:099][ 92]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.19-17.03.48:099][ 92]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.19-17.03.48:100][ 92]AssetCheck: /Game/WDP_StartMenu Validating asset
+[2026.11.19-17.05.05:173][842]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.05:176][842]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.05:276][843]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.05:390][844]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.05:394][844]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.05:498][845]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.05:599][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.05:695][847]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.05:704][847]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.05:806][848]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.05:809][848]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.05:903][849]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.06:016][850]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.06:111][851]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.06:120][851]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.06:221][852]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.06:320][853]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.06:328][853]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.06:428][854]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.06:433][854]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.06:532][855]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.11.19-17.05.11:512][ 41]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12271.877930
+[2026.11.19-17.05.11:689][ 50]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.19-17.05.11:689][ 50]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12272.036133, Update Interval: 352.996002
+[2026.11.19-17.05.29:140][846]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.19-17.05.34:341][122]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.19-17.05.57:644][324]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.19-17.06.07:149][812]LogSlate: Window 'Color Picker' being destroyed
+[2026.11.19-17.10.12:165][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.11.19-17.10.13:039][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.19-17.10.13:103][518]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WDP_Servers] ([2] browsable assets)...
+[2026.11.19-17.10.13:107][518]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WDP_Servers.WDP_Servers]
+[2026.11.19-17.10.13:107][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/WDP_Servers]
+[2026.11.19-17.10.13:107][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WDP_Servers" FILE="../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project/Content/WDP_Servers.uasset" SILENT=true
+[2026.11.19-17.10.13:120][518]LogSavePackage: Moving output files for package: /Game/WDP_Servers
+[2026.11.19-17.10.13:121][518]LogSavePackage: Moving '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project/Saved/WDP_ServersFAB4EC1F4661942D699E8CB15B5997CD.tmp' to '../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project/Content/WDP_Servers.uasset'
+[2026.11.19-17.10.13:131][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.913 ms (total: 1.17 sec)
+[2026.11.19-17.10.13:186][518]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.19-17.10.13:186][518]LogContentValidation: Enabled validators:
+[2026.11.19-17.10.13:186][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.19-17.10.13:186][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.19-17.10.13:186][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.19-17.10.13:186][518]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.19-17.10.13:186][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.19-17.10.13:186][518]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.19-17.10.13:186][518]AssetCheck: /Game/WDP_Servers Validating asset
+[2026.11.19-17.10.13:214][518]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/dfreer300/Documents/GitHub/Beat-the-Bard/CTAV_Group_Project/Saved/SourceControl/UncontrolledChangelists.json
+[2026.11.19-17.10.20:043][991]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.11.19-17.10.20:053][991]LogUMGEditor: Disabling Slate Post Buffers for multi-window PIE session, currently not supported.
+[2026.11.19-17.10.20:089][991]LogFMOD: Display: Loaded bank lookup
+[2026.11.19-17.10.20:089][991]LogFMOD: Error: Failed to load asset lookup
+[2026.11.19-17.10.20:108][991]LogFMOD: Default sample rate = 48000
+[2026.11.19-17.10.20:108][991]LogFMOD: System sample rate = 44100
+[2026.11.19-17.10.20:108][991]LogFMOD: Matching system sample rate 44100
+[2026.11.19-17.10.20:108][991]LogFMOD: CallbackHandler not set.
+[2026.11.19-17.10.20:129][991]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2026.11.19-17.10.20:169][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.19-17.10.20:169][991]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lvl_StartScreen
+[2026.11.19-17.10.20:170][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001417s)
+[2026.11.19-17.10.20:170][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lvl_StartScreen.Lvl_StartScreen to /Game/Maps/UEDPIE_0_Lvl_StartScreen.Lvl_StartScreen (0.001455s)
+[2026.11.19-17.10.20:200][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.11.19-17.10.20:203][991]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_StartScreen
+[2026.11.19-17.10.20:205][991]LogPlayLevel: PIE: World Init took: (0.001945s)
+[2026.11.19-17.10.20:206][991]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.11.19-17.10.20:206][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.19-17.10.20:206][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.19-17.10.20:206][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.19-17.10.20:206][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.19-17.10.20:206][991]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.19-17.10.20:206][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.19-17.10.20:206][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.19-17.10.20:206][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.19-17.10.20:206][991]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.19-17.10.20:206][991]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.19-17.10.20:206][991]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.19-17.10.20:209][991]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.19-17.10.20:300][991]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2026.11.19-17.10.20:300][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.19-17.10.20:300][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.19-17.10.20:300][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.19-17.10.20:300][991]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.11.19-17.10.20:300][991]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.11.19-17.10.20:303][991]LogInit: FAudioDevice initialized with ID 15.
+[2026.11.19-17.10.20:303][991]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.11.19-17.10.20:303][991]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.11.19-17.10.20:303][991]LogAudio: Display: Audio Device (ID: 15) registered with world 'Lvl_StartScreen'.
+[2026.11.19-17.10.20:303][991]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.11.19-17.10.20:351][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.19-17.10.20:352][991]LogLoad: Game class is 'GMSideScroll_C'
+[2026.11.19-17.10.20:352][991]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lvl_StartScreen.Lvl_StartScreen up for play (max tick rate 0) at 2026.11.19-17.10.20
+[2026.11.19-17.10.20:353][991]LogWorld: Bringing up level for play took: 0.000523
+[2026.11.19-17.10.20:356][991]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.11.19-17.10.20:360][991]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.11.19-17.10.20:360][991]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.11.19-17.10.20:360][991]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.11.19-17.10.20:360][991]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.11.19-17.10.20:360][991]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.11.19-17.10.20:366][991]PIE: Server logged in
+[2026.11.19-17.10.20:370][991]PIE: Play in editor total start time 0.317 seconds.
+[2026.11.19-17.10.20:370][991]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Lvl_StartScreen
+[2026.11.19-17.10.20:372][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001619s)
+[2026.11.19-17.10.20:372][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lvl_StartScreen.Lvl_StartScreen to /Game/Maps/UEDPIE_1_Lvl_StartScreen.Lvl_StartScreen (0.001649s)
+[2026.11.19-17.10.20:402][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.11.19-17.10.20:403][991]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_StartScreen
+[2026.11.19-17.10.20:405][991]LogPlayLevel: PIE: World Init took: (0.001761s)
+[2026.11.19-17.10.20:406][991]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.11.19-17.10.20:406][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.19-17.10.20:406][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.19-17.10.20:406][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.19-17.10.20:406][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.19-17.10.20:406][991]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.19-17.10.20:406][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.19-17.10.20:406][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.19-17.10.20:406][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.19-17.10.20:406][991]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.19-17.10.20:406][991]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.19-17.10.20:406][991]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.19-17.10.20:408][991]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.19-17.10.20:498][991]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2026.11.19-17.10.20:498][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.19-17.10.20:499][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.19-17.10.20:499][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.19-17.10.20:499][991]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.11.19-17.10.20:499][991]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.11.19-17.10.20:502][991]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.11.19-17.10.20:502][991]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.11.19-17.10.20:502][991]LogInit: FAudioDevice initialized with ID 16.
+[2026.11.19-17.10.20:502][991]LogAudio: Display: Audio Device (ID: 16) registered with world 'Lvl_StartScreen'.
+[2026.11.19-17.10.20:502][991]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.11.19-17.10.20:570][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.19-17.10.20:570][991]LogLoad: Game class is 'GMSideScroll_C'
+[2026.11.19-17.10.20:571][991]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Lvl_StartScreen.Lvl_StartScreen up for play (max tick rate 0) at 2026.11.19-17.10.20
+[2026.11.19-17.10.20:571][991]LogWorld: Bringing up level for play took: 0.000610
+[2026.11.19-17.10.20:575][991]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.11.19-17.10.20:577][991]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.11.19-17.10.20:577][991]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.11.19-17.10.20:577][991]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.11.19-17.10.20:577][991]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.11.19-17.10.20:577][991]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.11.19-17.10.20:583][991]PIE: Server logged in
+[2026.11.19-17.10.20:587][991]PIE: Play in editor total start time 0.534 seconds.
+[2026.11.19-17.10.25:963][193]LogOnlineSession: Warning: OSS: Ignoring game search request while one is pending
+[2026.11.19-17.10.31:579][451]LogOnlineSession: Warning: OSS: Ignoring game search request while one is pending
+[2026.11.19-17.10.32:903][516]LogOnlineSession: Warning: OSS: Ignoring game search request while one is pending
+[2026.11.19-17.10.33:702][555]LogOnlineSession: Warning: OSS: Ignoring game search request while one is pending
+[2026.11.19-17.10.33:702][555]LogOnlineSession: Warning: OSS: Ignoring game search request while one is pending
+[2026.11.19-17.10.34:188][579]LogOnlineSession: Warning: OSS: Ignoring game search request while one is pending
+[2026.11.19-17.10.40:225][878]LogOnlineSession: Warning: OSS: Ignoring game search request while one is pending
+[2026.11.19-17.10.40:225][878]LogOnlineSession: Warning: OSS: Ignoring game search request while one is pending
+[2026.11.19-17.10.40:225][878]LogOnlineSession: Warning: OSS: Ignoring game search request while one is pending
+[2026.11.19-17.10.40:225][878]LogOnlineSession: Warning: OSS: Ignoring game search request while one is pending
+[2026.11.19-17.10.40:225][878]LogOnlineSession: Warning: OSS: Ignoring game search request while one is pending
+[2026.11.19-17.10.48:780][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.19-17.10.48:780][291]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Lvl_StartScreen
+[2026.11.19-17.10.48:780][291]LogSlate: Window 'CTAV_UE5 Preview [NetMode: Standalone 1]  (64-bit/PC D3D SM6)' being destroyed
+[2026.11.19-17.10.48:785][291]LogWorld: UWorld::CleanupWorld for Lvl_StartScreen, bSessionEnded=true, bCleanupResources=true
+[2026.11.19-17.10.48:785][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.19-17.10.48:786][291]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Lvl_StartScreen
+[2026.11.19-17.10.48:786][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.19-17.10.48:787][291]LogSlate: Window 'CTAV_UE5 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.11.19-17.10.48:795][291]LogWorld: UWorld::CleanupWorld for Lvl_StartScreen, bSessionEnded=true, bCleanupResources=true
+[2026.11.19-17.10.48:795][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.19-17.10.48:797][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.19-17.10.48:803][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.19-17.10.48:832][291]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.19-17.10.48:832][291]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.11.19-17.10.48:832][291]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.11.19-17.10.48:835][291]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.11.19-17.10.48:840][291]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.19-17.10.48:840][291]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.11.19-17.10.48:840][291]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.11.19-17.10.48:842][291]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.11.19-17.10.48:850][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.11.19-17.10.48:882][292]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.11.19-17.10.48:884][292]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.11.19-17.10.53:683][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
